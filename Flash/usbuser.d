@@ -1,0 +1,12 @@
+.\flash\usbuser.o: audio\usbuser.c
+.\flash\usbuser.o: audio\type.h
+.\flash\usbuser.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\flash\usbuser.o: audio\usb.h
+.\flash\usbuser.o: audio\usbcfg.h
+.\flash\usbuser.o: audio\usbhw.h
+.\flash\usbuser.o: audio\usbcore.h
+.\flash\usbuser.o: audio\lpc17xx.h
+.\flash\usbuser.o: audio\core_cm3.h
+.\flash\usbuser.o: audio\system_LPC17xx.h
+.\flash\usbuser.o: audio\usbuser.h
+.\flash\usbuser.o: audio\usbaudio.h

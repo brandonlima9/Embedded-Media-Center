@@ -1,0 +1,14 @@
+.\flash\blinky.o: Blinky.c
+.\flash\blinky.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\flash\blinky.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\flash\blinky.o: Blinky.h
+.\flash\blinky.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\flash\blinky.o: C:\Keil_v5\ARM\INC\NXP\LPC17xx\LPC17xx.h
+.\flash\blinky.o: ..\MCB1700-master\core_cm3.h
+.\flash\blinky.o: C:\Keil_v5\ARM\INC\NXP\LPC17xx\system_LPC17xx.h
+.\flash\blinky.o: GLCD.h
+.\flash\blinky.o: LED.h
+.\flash\blinky.o: KBD.h
+.\flash\blinky.o: gameTicTacToe.h
+.\flash\blinky.o: gameFallingObjects.h
+.\flash\blinky.o: usbdmain.h

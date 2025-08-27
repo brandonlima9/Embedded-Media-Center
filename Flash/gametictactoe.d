@@ -1,0 +1,10 @@
+.\flash\gametictactoe.o: gameTicTacToe.c
+.\flash\gametictactoe.o: C:\Keil_v5\ARM\INC\NXP\LPC17xx\LPC17xx.H
+.\flash\gametictactoe.o: ..\MCB1700-master\core_cm3.h
+.\flash\gametictactoe.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\flash\gametictactoe.o: C:\Keil_v5\ARM\INC\NXP\LPC17xx\system_LPC17xx.h
+.\flash\gametictactoe.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\flash\gametictactoe.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\flash\gametictactoe.o: GLCD.h
+.\flash\gametictactoe.o: LED.h
+.\flash\gametictactoe.o: KBD.h
